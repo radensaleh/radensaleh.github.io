@@ -25,7 +25,7 @@
         <meta content="ThemeWagon" name="twitter:title">
         <meta content="Imminent - The most spectacular coming soon template!" name="twitter:description">
 
-        <link href="favicon.png" rel="shortcut icon" type="image/png">
+        <link href="img/index.png" rel="shortcut icon" type="image/png">
 
         <!--[if lt IE 9]>
             <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
