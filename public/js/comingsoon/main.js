@@ -56,7 +56,7 @@ $(window).load(function(){
 
 
 $('#countdown').countdown({
-	date: "January 1, 2019 00:00:00",
+	date: "January 21, 2019 17:57:00",
 	render: function(data) {
 	  var el = $(this.el);
 	  el.empty()
@@ -65,5 +65,15 @@ $('#countdown').countdown({
 	    .append("<div>" + this.leadingZeros(data.hours, 2) + " <span>hrs</span></div>")
 	    .append("<div>" + this.leadingZeros(data.min, 2) + " <span>min</span></div>")
 	    .append("<div>" + this.leadingZeros(data.sec, 2) + " <span>sec</span></div>");
+
+      if(data.days == 00){
+          if(data.hours == 00){
+              if(data.min == 00){
+                  if(data.sec == 00){
+                      console.log("Selamat Ultah");
+                  }
+              }
+          }
+      }
 	}
 });

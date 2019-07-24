@@ -9,8 +9,5 @@ class HomeController extends Controller
     public function home(){
        return view('index');
     }
-
-    public function waiting(){
-       return view('comingsoon');
-    }
+    
 }

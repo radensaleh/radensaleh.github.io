@@ -11,6 +11,4 @@
 |
 */
 
-// Route::get('/', 'HomeController@home')->name('home');
-
-Route::get('/', 'HomeController@waiting')->name('waiting');
+Route::get('/', 'HomeController@home')->name('home');

@@ -5,7 +5,7 @@
 	<!-- Mobile Specific Meta -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<!-- Favicon-->
-	<link rel="icon" type="image/png" href="img/logo.png">
+	<link rel="icon" type="image/png" href="img/boy.png">
 	<!-- Author Meta -->
 	<meta name="author" content="colorlib">
 	<!-- Meta Description -->
@@ -50,7 +50,7 @@
 		<div class="container main-menu">
 			<div class="row align-items-center d-flex">
 				<div id="logo">
-					<a href="{{ route('home') }}"><img src="img/logo.png" alt="" title="" /></a>
+					<a href="{{ route('home') }}"><img src="img/logo_rd.png" alt="" title="" /></a>
 				</div>
 				<nav id="nav-menu-container">
 					<ul class="nav-menu">
@@ -103,7 +103,7 @@
 					</a> -->
 				</div>
 				<div class="banner-img col-lg-6 col-md-6 align-self-end">
-					<!-- <img class="img-fluid" src="img/banner-img.png" alt=""> -->
+					<img class="img-fluid" src="img/rd-char.png" alt="">
 				</div>
 			</div>
 		</div>
@@ -117,25 +117,25 @@
 			<div class="brand-wrap">
 				<div class="row align-items-center active-brand-carusel justify-content-start no-gutters">
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/ig.jpg" alt=""></a>
+						<a href="https://www.instagram.com/radensaleh_" target="_blank"><img class="mx-auto" src="img/brand/ig.jpg" alt=""></a>
 					</div>
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/fb.png" alt=""></a>
+						<a href="https://web.facebook.com/rd.saleh" target="_blank"><img class="mx-auto" src="img/brand/fb.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/line.png" alt=""></a>
+						<a href="http://line.me/ti/p/~rd.13" target="_blank"><img class="mx-auto" src="img/brand/line.png" alt=""></a>
 					</div>
           <div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/dicoding.png" alt=""></a>
+						<a href="https://www.dicoding.com/users/291016" target="_blank"><img class="mx-auto" src="img/brand/dicoding.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/github.png" alt=""></a>
+						<a href="https://github.com/radensaleh" target="_blank"><img class="mx-auto" src="img/brand/github.png" alt=""></a>
 					</div>
           <div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/gitlab.png" alt=""></a>
+						<a href="https://gitlab.com/radensaleh" target="_blank"><img class="mx-auto" src="img/brand/gitlab.png" alt=""></a>
 					</div>
 					<div class="col single-brand">
-						<a href="#"><img class="mx-auto" src="img/brand/telegram.png" alt=""></a>
+						<a href="https://t.me/radensaleh" target="_blank"><img class="mx-auto" src="img/brand/telegram.png" alt=""></a>
 					</div>
 				</div>
 			</div>
@@ -149,7 +149,7 @@
 		<div class="container">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6 about-left">
-					<!-- <img class="img-fluid" src="img/about-img.jpg" alt=""> -->
+					<img class="img-fluid" src="img/rd-charfull.png" alt="">
 				</div>
 				<div class="col-lg-5 col-md-12 about-right">
 					<div class="section-title">
@@ -238,12 +238,12 @@
 								<p>at SDN 2 Kepongpongan, Cirebon</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Since 2005 - 2011">
+								<p class="primary-btn" data-text="Since 2005 - 2011">
                   <span>S</span><span>i</span><span>n</span><span>c</span><span>e</span>
 									<span>2</span><span>0</span><span>0</span><span>5</span>
 									<span>-</span>
 									<span>2</span><span>0</span><span>1</span><span>1</span>
-								</a>
+								</p>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
@@ -260,12 +260,12 @@
 								<p>at SMPN 4 Cirebon</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Since 2011 - 2014">
+								<p class="primary-btn" data-text="Since 2011 - 2014">
                   <span>S</span><span>i</span><span>n</span><span>c</span><span>e</span>
 									<span>2</span><span>0</span><span>1</span><span>1</span>
 									<span>-</span>
 									<span>2</span><span>0</span><span>1</span><span>4</span>
-								</a>
+								</p>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.4s">
@@ -282,12 +282,12 @@
 								<p>at SMKN 1 Cirebon</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Since 2014 - 2017">
+								<p class="primary-btn" data-text="Since 2014 - 2017">
                   <span>S</span><span>i</span><span>n</span><span>c</span><span>e</span>
 									<span>2</span><span>0</span><span>1</span><span>4</span>
 									<span>-</span>
 									<span>2</span><span>0</span><span>1</span><span>7</span>
-								</a>
+								</p>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
@@ -304,13 +304,13 @@
 								<p>at State Polytechnic of Indramayu</p>
 							</div>
 							<div class="top-right">
-								<a href="#" class="primary-btn" data-text="Since 2017 - Now">
+								<p class="primary-btn" data-text="Since 2017 - Now">
                   <span>S</span><span>i</span><span>n</span><span>c</span><span>e</span>
 									<span>2</span><span>0</span><span>1</span><span>7</span>
 									<span>-</span>
                   <span>N</span><span>o</span><span>w</span>
 									<!-- <span>2</span><span>0</span><span>1</span><span>17</span> -->
-								</a>
+								</p>
 							</div>
 						</div>
 						<div class="bottom-sec wow fadeIn" data-wow-duration="2s" data-wow-delay="0.6s">
@@ -342,7 +342,7 @@
 						<h4>
 							<span>3rd</span> LKS Fisika
 						</h4>
-						<p>Kota Cirebon.</p>
+						<p>Kota Cirebon</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
@@ -350,23 +350,23 @@
 						<span class="lnr lnr-code"></span>
 						<h4><span>3rd Competition</span> Programming
 						</h4>
-						<p>UINIC 2.0 se-DIY/Jateng.</p>
+						<p>UINIC 2.0 se-DIY/Jateng</p>
 					</div>
 				</div>
         <div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 						<span class="lnr lnr-license"></span>
-						<h4><span>Certification</span> LSP-BNSP P1
+						<h4><span>Certification</span> LSP-BNSP
 						</h4>
-						<p>Cluster Web Programmer</p>
+						<p>Web Programmer</p>
 					</div>
 				</div>
         <div class="col-lg-3 col-md-6">
 					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 						<span class="lnr lnr-license"></span>
-						<h4><span>Certification</span> LSP-BNSP P2
+						<h4><span>Certification</span> LSP-BNSP
 						</h4>
-						<p>Cluster Junior Programming</p>
+						<p>Junior Programming</p>
 					</div>
 				</div>
 			</div>
@@ -378,9 +378,18 @@
 					<div class="single-service wow fadeInUp" data-wow-duration="1s">
 						<span class="lnr lnr-license"></span>
 						<h4>
-							<span>Certification</span> LSP-BNSP P2
+							<span>Certification</span> LSP-BNSP
 						</h4>
-						<p>Cluster Junior Networking</p>
+						<p>Junior Networking</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s">
+						<span class="lnr lnr-license"></span>
+						<h4>
+							<span>Certification</span> LSP-BNSP
+						</h4>
+						<p>Database Programming</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
@@ -391,7 +400,55 @@
 						<p>Prototype Line Chatbot</p>
 					</div>
 				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+						<span class="lnr lnr-license"></span>
+						<h4><span>Certificate</span> Dicoding
+						</h4>
+						<p>Web Fundamental</p>
+					</div>
+				</div>
 			</div>
+
+			<br>
+
+      <div class="row">
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s">
+						<span class="lnr lnr-license"></span>
+						<h4>
+							<span>Certificate</span> Dicoding
+						</h4>
+						<p>Android Expert</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+						<span class="lnr lnr-license"></span>
+						<h4><span>Certificate</span> Dicoding
+						</h4>
+						<p>Android Fundamental</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s">
+						<span class="lnr lnr-license"></span>
+						<h4>
+							<span>Certificate</span> Dicoding
+						</h4>
+						<p>Azure Cloud Developer</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="single-service wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+						<span class="lnr lnr-license"></span>
+						<h4><span>Certificate</span> Dicoding
+						</h4>
+						<p>AWS Solutions Architect</p>
+					</div>
+				</div>
+			</div>
+
 		</div>
 	</section>
 	<!-- End Achievement Area -->
@@ -414,7 +471,7 @@
             <div class="visit">Frontend</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-3" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-3" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
@@ -424,7 +481,7 @@
             <div class="visit">Frontend</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-1" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-1" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
@@ -434,11 +491,11 @@
             <div class="visit">Frontend</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-2" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-2" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
-          <div class="table-row">
+          <!-- <div class="table-row">
             <div class="serial">04</div>
             <div class="country"> <img src="img/vue.png" alt="">VueJS</div>
             <div class="visit">Framework Fronted</div>
@@ -447,29 +504,29 @@
                 <div class="progress-bar color-4" role="progressbar" style="width: 15%" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
-          </div>
+          </div> -->
           <div class="table-row">
-            <div class="serial">05</div>
+            <div class="serial">04</div>
             <div class="country"> <img src="img/php.png" alt="">PHP</div>
             <div class="visit">Backend</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-1" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-1" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="serial">05</div>
+            <div class="country"> <img src="img/py.png" alt="">Python</div>
+            <div class="visit">Backend</div>
+            <div class="percentage">
+              <div class="progress">
+                <div class="progress-bar color-1" role="progressbar" style="width: 15%" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
           <div class="table-row">
             <div class="serial">06</div>
-            <div class="country"> <img src="img/py.png" alt="">Python</div>
-            <div class="visit">Backend</div>
-            <div class="percentage">
-              <div class="progress">
-                <div class="progress-bar color-1" role="progressbar" style="width: 25%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-          </div>
-          <div class="table-row">
-            <div class="serial">07</div>
             <div class="country"> <img src="img/cplus.png" alt="">C++</div>
             <div class="visit">Backend</div>
             <div class="percentage">
@@ -479,72 +536,72 @@
             </div>
           </div>
           <div class="table-row">
-            <div class="serial">08</div>
+            <div class="serial">07</div>
             <div class="country"> <img src="img/laravel.png" alt="">Laravel</div>
             <div class="visit">Framework Backend</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-3" role="progressbar" style="width: 88%" aria-valuenow="88" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-3" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+          </div>
+          <div class="table-row">
+            <div class="serial">08</div>
+            <div class="country"> <img src="img/mysql.png" alt="">MySQL</div>
+            <div class="visit">Database</div>
+            <div class="percentage">
+              <div class="progress">
+                <div class="progress-bar color-1" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
           <div class="table-row">
             <div class="serial">09</div>
-            <div class="country"> <img src="img/mysql.png" alt="">MySQL</div>
+            <div class="country"> <img src="img/postgresql.png" alt="">PostgreSQL</div>
             <div class="visit">Database</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-1" role="progressbar" style="width: 93%" aria-valuenow="93" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-1" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
           <div class="table-row">
             <div class="serial">10</div>
-            <div class="country"> <img src="img/postgresql.png" alt="">PostgreSQL</div>
-            <div class="visit">Database</div>
+            <div class="country"> <img src="img/java.png" alt="">Java</div>
+            <div class="visit">Android</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-1" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-3" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
           <div class="table-row">
             <div class="serial">11</div>
-            <div class="country"> <img src="img/java.png" alt="">Java</div>
+            <div class="country"> <img src="img/kotlin.png" alt="">Kotlin</div>
             <div class="visit">Android</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-3" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-2" role="progressbar" style="width: 15%" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
           <div class="table-row">
             <div class="serial">12</div>
-            <div class="country"> <img src="img/kotlin.png" alt="">Kotlin</div>
-            <div class="visit">Android</div>
+            <div class="country"> <img src="img/cdr.png" alt="">Corel Draw</div>
+            <div class="visit">Design</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-2" role="progressbar" style="width: 20%" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-4" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
           <div class="table-row">
             <div class="serial">13</div>
-            <div class="country"> <img src="img/cdr.png" alt="">Corel Draw</div>
-            <div class="visit">Design</div>
-            <div class="percentage">
-              <div class="progress">
-                <div class="progress-bar color-4" role="progressbar" style="width: 95%" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-          </div>
-          <div class="table-row">
-            <div class="serial">14</div>
             <div class="country"> <img src="img/ps.png" alt="">Photoshop</div>
             <div class="visit">Design</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-1" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-1" role="progressbar" style="width: 30%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
@@ -567,7 +624,7 @@
 							<li><a href="#"><i class="fas fa-star"></i></a></li>
               <li><a href="#"><i class="fas fa-star"></i></a></li>
               <li><a href="#"><i class="fas fa-star"></i></a></li>
-              <li><a href="#"><i class="fas fa-star"></i></a></li>
+              <li><i class="fas fa-star"></i></li>
 						</ul>
 					</div>
 				</div>
@@ -592,7 +649,7 @@
 							<li><a href="#"><i class="fas fa-star"></i></a></li>
 							<li><a href="#"><i class="fas fa-star"></i></a></li>
 							<li><a href="#"><i class="fas fa-star"></i></a></li>
-							<li><a href="#"><i class="fas fa-star"></i></a></li>
+							<li><i class="fas fa-star"></i></li>
 							<li><i class="fas fa-star"></i></li>
 						</ul>
 					</div>
@@ -660,15 +717,18 @@
 				<div class="col-lg-12">
 					<div class="footer-top flex-column">
 						<div class="footer-logo">
-							<a href="#">
-								<img src="img/logo.png" alt="">
+							<a href="{{ route('home') }}">
+								<img src="img/logo_rd.png" alt="">
 							</a>
 							<h4>Follow Me</h4>
 						</div>
 						<div class="footer-social">
-							<a href="#"><i class="fab fa-facebook"></i></a>
-							<a href="#"><i class="fab fa-instagram"></i></a>
-              <a href="#"><i class="fab fa-github"></i></a>
+							<a href="https://web.facebook.com/rd.saleh" target="_blank"><i class="fab fa-facebook"></i></a>
+							<a href="https://www.instagram.com/radensaleh_" target="_blank"><i class="fab fa-instagram"></i></a>
+              <a href="https://t.me/radensaleh" target="_blank"><i class="fab fa-telegram"></i></a>
+              <a href="http://line.me/ti/p/~rd.13" target="_blank"><i class="fab fa-line"></i></a>
+              <a href="https://github.com/radensaleh" target="_blank"><i class="fab fa-github"></i></a>
+              <a href="https://gitlab.com/radensaleh" target="_blank"><i class="fab fa-gitlab"></i></a>
 						</div>
 					</div>
 				</div>
