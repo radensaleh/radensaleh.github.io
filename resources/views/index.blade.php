@@ -419,7 +419,7 @@
 						<h4>
 							<span>Certificate</span> Dicoding
 						</h4>
-						<p>Android Expert</p>
+						<p>Android Developer Expert</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
