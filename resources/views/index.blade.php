@@ -326,7 +326,7 @@
 
 
 	<!-- Start Achievement Area -->
-	<!-- <section class="service-area section-gap">
+	<section class="service-area section-gap">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -450,7 +450,7 @@
 			</div>
 
 		</div>
-	</section> -->
+	</section>
 	<!-- End Achievement Area -->
 
   <!-- Start Skill Area -->
@@ -471,7 +471,7 @@
             <div class="visit">Frontend</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-3" role="progressbar" style="width: 85%" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-3" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
@@ -481,7 +481,7 @@
             <div class="visit">Frontend</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-1" role="progressbar" style="width: 40%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-1" role="progressbar" style="width: 30%" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
@@ -491,7 +491,7 @@
             <div class="visit">Frontend</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-2" role="progressbar" style="width: 50%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-2" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
@@ -561,7 +561,7 @@
             <div class="visit">Database</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-1" role="progressbar" style="width: 40%" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-1" role="progressbar" style="width: 45%" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
@@ -581,7 +581,7 @@
             <div class="visit">Android</div>
             <div class="percentage">
               <div class="progress">
-                <div class="progress-bar color-2" role="progressbar" style="width: 25%" aria-valuenow="15" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar color-2" role="progressbar" style="width: 35%" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
