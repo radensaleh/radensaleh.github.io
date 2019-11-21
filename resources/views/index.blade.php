@@ -326,7 +326,7 @@
 
 
 	<!-- Start Achievement Area -->
-	<!-- <section class="service-area section-gap">
+	<section class="service-area section-gap">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -450,7 +450,7 @@
 			</div>
 
 		</div>
-	</section> -->
+	</section>
 	<!-- End Achievement Area -->
 
   <!-- Start Skill Area -->
